@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá!
 
-<!--
-**BrunoFrossard/BrunoFrossard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🎒 Eu sou o Bruno, atualmente curso Engenharia de Software no Instituto de Tecnologia e Liderança ( INTELI).
 
-Here are some ideas to get you started:
+•🏙️ Uma curiosidade sobre mim é que morei em uma República Universitária durante 2 anos. Essa experiência me ensinou a conviver com diferentes tipos de pessoas e aprimorou minhas habilidades de trabalho em equipe e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• ⚽ Futsal, corrida e livros ocupam o meu tempo livre!
+
+<div>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=BrunoFrossard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFrossard&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+
+  
