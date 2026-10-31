@@ -1,6 +1,6 @@
 ## Olá!
 
-• 🎒 Eu sou o Bruno, atualmente curso Engenharia de Software no Instituto de Tecnologia e Liderança ( INTELI).
+• 🎒 Eu sou o Bruno, atualmente curso Engenharia da Computação no Instituto de Tecnologia e Liderança ( INTELI).
 
 •🏙️ Uma curiosidade sobre mim é que morei em uma República Universitária durante 2 anos. Essa experiência me ensinou a conviver com diferentes tipos de pessoas e aprimorou minhas habilidades de trabalho em equipe e resolução de problemas.
 
